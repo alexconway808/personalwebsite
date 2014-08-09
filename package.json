@@ -1,5 +1,24 @@
 {
+  "name": "personalwebsite",
+  "version": "0.0.1",
+  "description": "alex conway website",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.8.2",
-  }
+    "jade": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexconway808/personalwebsite.git"
+  },
+  "author": "Alex Conway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexconway808/personalwebsite/issues"
+  },
+  "homepage": "https://github.com/alexconway808/personalwebsite"
 }
